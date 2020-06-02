@@ -1,0 +1,4 @@
+load STM32L071RBTx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "G:\Work\testing\try_keil\RTE\Device\STM32L071RBTx\" 
